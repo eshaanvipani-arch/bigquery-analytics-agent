@@ -1,6 +1,4 @@
-def main():
-    print("Hello from bigquery-agent!")
-
+from google.adk.cli.cli import main
 
 if __name__ == "__main__":
     main()
